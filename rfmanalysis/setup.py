@@ -23,7 +23,7 @@ setup(
         'Programming Language :: Python :: 3.8',
     ],
     description="Python package for RFM and Customer segmentation.",
-    install_requires=['pandas>=1.2.4', 'numpy>=1.20.1', 'matplotlib>=3.3.4']
+    install_requires=['pandas>=1.2.4', 'numpy>=1.20.1', 'matplotlib>=3.3.4'],
     license="MIT license",
     long_description=long_description,
     long_description_content_type="text/markdown",

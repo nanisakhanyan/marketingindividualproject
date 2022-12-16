@@ -6,3 +6,5 @@ To develop customer loyalty and selecting profitable clients it is important to 
  3. How much the customer spends (monetary).
  
 one can understand which customer is the most valuable one. 
+
+
